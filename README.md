@@ -1,4 +1,4 @@
-<body background="city.gif">
+background="city.gif"
 # Resolusi: Selama di Kelas 11.
 -
 ![](https://tenor.com/view/touka-kirishima-tokyo-ghoul-wings-gif-15864806.gif)
