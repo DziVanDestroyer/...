@@ -1,1 +1,1 @@
-# ResolusiGeri
+# Resolusi
