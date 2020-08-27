@@ -16,4 +16,11 @@ Berkolaborasi dengan teman dalam membuat project.
 -
 Tidak ketinggalan dalam belajar, dan harus tetap konsisten.
 -
-
+-
+-
+-
+Visit me: https://twitter.com/DziVanDestroyer
+-
+-
+-
+-
