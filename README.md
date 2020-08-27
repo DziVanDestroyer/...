@@ -1,3 +1,4 @@
+<body background="city.gif">
 # Resolusi: Selama di Kelas 11.
 -
 ![](https://tenor.com/view/touka-kirishima-tokyo-ghoul-wings-gif-15864806.gif)
@@ -25,7 +26,4 @@ Visit me: https://twitter.com/DziVanDestroyer
 -
 -
 -
-<div align="center">
-<img src="https://octodex.github.com/images/dunetocat.png" width="200">
-<p>This is some centered text.</p>
-</div>
+</body>
