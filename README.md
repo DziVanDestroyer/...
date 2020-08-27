@@ -1,6 +1,6 @@
 # Resolusi: Selama di Kelas 11.
 -
-https://68.media.tumblr.com/8287a931318a0abeceb3b979d6fc2f23/tumblr_ool76jMOS91twgfw0o1_500.gif
+![](http://i.imgur.com/60bts.gif)
 -
 Belajar CRUD lebih dalam dengan Guru guru, dan mendalami PHP dan Laravel   dengan serius.
 -
