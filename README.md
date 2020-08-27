@@ -1,6 +1,6 @@
 # Resolusi: Selama di Kelas 11.
 -
-![](http://i.imgur.com/60bts.gif)
+![](https://tenor.com/view/touka-kirishima-tokyo-ghoul-wings-gif-15864806.gif)
 -
 Belajar CRUD lebih dalam dengan Guru guru, dan mendalami PHP dan Laravel   dengan serius.
 -
